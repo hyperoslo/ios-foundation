@@ -1,1 +1,11 @@
+pod 'Aftermath'
+pod 'Compass'
+pod 'Fashion'
+pod 'Hue'
+pod 'Imaginary'
+pod 'Malibu'
+pod 'R.swift'
+pod 'Spots'
+pod 'Tabby'
+pod 'Tailor'
 
