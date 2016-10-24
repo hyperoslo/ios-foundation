@@ -36,9 +36,9 @@ With collaboration comes team spirit, something up-lifting and prone to generate
 ## Practicality 
 
 - [ ] Everyone needs access to projects in Harvest, this will be done gradually when the opportunity arrives.
-- [ ] The team will sync every Monday after all projects have had their stand ups.
+- [ ] The team will sync every Thursday to go through the current workload and plan the upcoming week.
 - [ ] Every week, each team member will do a small write up about the projects weekly sprint. (We are not tied to one week project sprints but team sprints should be done on a weekly basis).
-- [ ] Team sprints will be done on GitHub.
+- [ ] Team sprints will be written down and stored on Box so that all project manager gained access to this weeks plan.
 - [ ] Before every resource meeting, the team will touchdown on where we are, where we need to go and report the capacity for the coming week.
 - [ ] The lead for the team will own the project in Harvest, this is the person that you will book for the duration of the project.
 
