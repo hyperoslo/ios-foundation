@@ -7,7 +7,7 @@ This document is intended to describe the current situation, the caveats, why it
 This concerns the iOS team and is based on the current team size and setup. This is not set in stone and is prone to change depending on team size and future direction.
 
 ## Current
-Currently our setup is based on people being allocated 100% on a project, from start to finish, as long as there is work todo. Being a small team and delivering small to medium applications, this results in one developer per project. From a project managers perspective, this is called a resource. Allocating and reusing the same resource through-out the project is essential for the projects overall success.
+Currently our setup is based on people being allocated 100% on a project, from start to finish, as long as there is work to do. Being a small team and delivering small to medium applications, this results in one developer per project. From a project managers perspective, this is called a resource. Allocating and reusing the same resource through-out the project is essential for the projects overall success.
 
 ## Caveats
 By allocating only one person per project, we are effectively reducing the chances and incentive to collaborate with other developers. We also limit ourselves to not being able to tackle more projects than the team size. Project size == Amount or projects (4 developers -> 4 projects).
