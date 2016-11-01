@@ -25,7 +25,7 @@ The lead role for an iOS developer will have to change, he would have some uniqu
 The lead will always set up and configure the core setup for the new project.
 
 ## Things we can avoid
-With this setup, we are no longer dependent on the individual as the responsibility is now shared among all the members of the team. Core foundation going forward revolves around collaboration and playing on people's strengths
+With this setup, we are no longer dependent on the individual as the responsibility is now shared among all the members of the team. The teams core foundation going forward revolves around collaboration and playing on people's strengths
 
 If a resource is replaced, we can avoid core knowledge being lost in the transition. External disruption, such as sickness, parental leave and leave of absence can be handled within the team and will be less costly and prone to halt or delay project progression.
 
