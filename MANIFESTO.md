@@ -20,7 +20,7 @@ Giving the developer lead ownership over a project can also cause a conflict of 
 We also tend to run into the situation where we have an uneven workload, one person is working overtime while the other person has 25% to 0% customer time.
 
 ## A new kind of lead
-The lead role for an iOS developer will have to change, he would have some unique expectations in what goes into his or her performance. A lead will attend meetings, be reasonable for passing on knowledge to their fellow developers, flag when a project is in need of help, holds the main incentive for collaboration and that the new convention are implemented properly. He or she will also be the main resource for designers to spar with.
+The lead role for an iOS developer will have to change, he or she, would have some unique expectations in what goes into his or her performance. A lead will attend meetings, be reasonable for passing on knowledge to their fellow developers, flag when a project is in need of help, holds the main incentive for collaboration and that the new convention are implemented properly. He or she will also be the main resource for designers to spar with.
 
 The lead will always set up and configure the core setup for the new project.
 
