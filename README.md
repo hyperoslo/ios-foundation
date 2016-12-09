@@ -1,4 +1,4 @@
-# ios-foundation
+# Hyper iOS Foundation
 
 - [Planning](https://github.com/hyperoslo/ios-foundation/blob/master/PLANNING.md)
 
