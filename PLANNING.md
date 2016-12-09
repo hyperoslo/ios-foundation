@@ -1,4 +1,4 @@
-# Hyper iOS Manifesto
+# Hyper iOS Planning
 
 ## Introduction 
 This document is intended to describe the current situation, the caveats, why it is important and the end goal.
