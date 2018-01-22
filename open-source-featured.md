@@ -8,7 +8,7 @@
 - [Hue](https://github.com/hyperoslo/Hue) - The all-in-one coloring utility that you'll ever need.
 - [Lightbox](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app
 - [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner
-- [Spots](https://github.com/hyperoslo/Spots) - 🎍 Spots is a cross-platform view controller framework for building component-based UIs
+- [Spots](https://github.com/hyperoslo/Spots) - Spots is a cross-platform view controller framework for building component-based UIs
 - [Keychains](https://github.com/hyperoslo/Keychains) - A keychain wrapper that is so easy to use that your cat could use it.
 - [Malibu](https://github.com/hyperoslo/Malibu) - Malibu is a networking library built on promises
 - [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple
